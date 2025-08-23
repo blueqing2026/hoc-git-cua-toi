@@ -1,2 +1,3 @@
 "Ban dau, buc tranh co mot hinh tron." 
 Toi da them mot qua ca chua.
+Toi da ve them mot hinh tam giac mau do.
